@@ -1,0 +1,31 @@
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\Interface\bin\Release\Interface.exe.config
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\Interface\bin\Release\Interface.exe
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\Interface\bin\Release\Interface.pdb
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\Interface\bin\Release\RayTracer.dll
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\Interface\bin\Release\RayTracer.pdb
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\Interface\obj\Release\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\Interface\obj\Release\Interface.Form1.resources
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\Interface\obj\Release\Interface.Properties.Resources.resources
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\Interface\obj\Release\Interface.csproj.GenerateResource.Cache
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\Interface\obj\Release\Interface.exe
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\Interface\obj\Release\Interface.pdb
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer\Interface\bin\Release\Interface.exe.config
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer\Interface\obj\Release\Interface.exe
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer\Interface\obj\Release\Interface.pdb
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer\Interface\bin\Release\Interface.exe
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer\Interface\bin\Release\Interface.pdb
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer\Interface\bin\Release\RayTracer.dll
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer\Interface\bin\Release\RayTracer.pdb
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer\Interface\obj\Release\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer\Interface\obj\Release\Interface.Form1.resources
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer\Interface\obj\Release\Interface.Properties.Resources.resources
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer\Interface\obj\Release\Interface.csproj.GenerateResource.Cache
+E:\RayTracer\Interface\bin\Release\Interface.exe.config
+E:\RayTracer\Interface\bin\Release\Interface.exe
+E:\RayTracer\Interface\bin\Release\Interface.pdb
+E:\RayTracer\Interface\obj\Release\Interface.csprojResolveAssemblyReference.cache
+E:\RayTracer\Interface\obj\Release\Interface.Form1.resources
+E:\RayTracer\Interface\obj\Release\Interface.Properties.Resources.resources
+E:\RayTracer\Interface\obj\Release\Interface.csproj.GenerateResource.Cache
+E:\RayTracer\Interface\obj\Release\Interface.exe
+E:\RayTracer\Interface\obj\Release\Interface.pdb

@@ -1,0 +1,46 @@
+D:\_Desktop\RayTracer\Interface\bin\Release\Interface.exe.config
+D:\_Desktop\RayTracer\Interface\bin\Release\Interface.exe
+D:\_Desktop\RayTracer\Interface\bin\Release\Interface.pdb
+D:\_Desktop\RayTracer\Interface\obj\Release\RayTracer.csprojResolveAssemblyReference.cache
+D:\_Desktop\RayTracer\Interface\obj\Release\Interface.Form1.resources
+D:\_Desktop\RayTracer\Interface\obj\Release\Interface.Properties.Resources.resources
+D:\_Desktop\RayTracer\Interface\obj\Release\RayTracer.csproj.GenerateResource.Cache
+D:\_Desktop\RayTracer\Interface\obj\Release\Interface.exe
+D:\_Desktop\RayTracer\Interface\obj\Release\Interface.pdb
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer3\Interface\bin\Release\Interface.exe.config
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer3\Interface\obj\Release\Interface.exe
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer3\Interface\obj\Release\Interface.pdb
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer3\Interface\bin\Release\Interface.exe
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer3\Interface\bin\Release\Interface.pdb
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer3\Interface\obj\Release\RayTracer.csprojResolveAssemblyReference.cache
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer3\Interface\obj\Release\Interface.Form1.resources
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer3\Interface\obj\Release\Interface.Properties.Resources.resources
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\RayTracer3\Interface\obj\Release\RayTracer.csproj.GenerateResource.Cache
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\bin\Release\Interface.exe.config
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\obj\Release\Interface.exe
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\obj\Release\Interface.pdb
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\bin\Release\Interface.exe
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\bin\Release\Interface.pdb
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\obj\Release\RayTracer.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\obj\Release\Interface.Form1.resources
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\obj\Release\Interface.Properties.Resources.resources
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\obj\Release\RayTracer.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\RayTracer3\Interface\bin\Release\Interface.exe.config
+C:\Users\Максим\Desktop\RayTracer3\Interface\obj\Release\Interface.exe
+C:\Users\Максим\Desktop\RayTracer3\Interface\obj\Release\Interface.pdb
+C:\Users\Максим\Desktop\RayTracer3\Interface\bin\Release\Interface.exe
+C:\Users\Максим\Desktop\RayTracer3\Interface\bin\Release\Interface.pdb
+C:\Users\Максим\Desktop\RayTracer3\Interface\obj\Release\RayTracer.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\RayTracer3\Interface\obj\Release\Interface.Form1.resources
+C:\Users\Максим\Desktop\RayTracer3\Interface\obj\Release\Interface.Properties.Resources.resources
+C:\Users\Максим\Desktop\RayTracer3\Interface\obj\Release\RayTracer.csproj.GenerateResource.Cache
+D:\Учеба\4 курс\Комп Графика\Практика\RayTracer3\Interface\bin\Release\Interface.exe.config
+D:\Учеба\4 курс\Комп Графика\Практика\RayTracer3\Interface\bin\Release\Interface.exe
+D:\Учеба\4 курс\Комп Графика\Практика\RayTracer3\Interface\bin\Release\Interface.pdb
+D:\Учеба\4 курс\Комп Графика\Практика\RayTracer3\Interface\obj\Release\RayTracer.csprojAssemblyReference.cache
+D:\Учеба\4 курс\Комп Графика\Практика\RayTracer3\Interface\obj\Release\Interface.Form1.resources
+D:\Учеба\4 курс\Комп Графика\Практика\RayTracer3\Interface\obj\Release\Interface.Properties.Resources.resources
+D:\Учеба\4 курс\Комп Графика\Практика\RayTracer3\Interface\obj\Release\RayTracer.csproj.GenerateResource.cache
+D:\Учеба\4 курс\Комп Графика\Практика\RayTracer3\Interface\obj\Release\RayTracer.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс\Комп Графика\Практика\RayTracer3\Interface\obj\Release\Interface.exe
+D:\Учеба\4 курс\Комп Графика\Практика\RayTracer3\Interface\obj\Release\Interface.pdb

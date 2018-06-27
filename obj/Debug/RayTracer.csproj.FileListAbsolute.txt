@@ -1,0 +1,5 @@
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\RayTracer\bin\Debug\RayTracer.dll
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\RayTracer\bin\Debug\RayTracer.pdb
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\RayTracer\obj\Debug\RayTracer.csprojResolveAssemblyReference.cache
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\RayTracer\obj\Debug\RayTracer.dll
+C:\Users\Alexey Skywalker\Documents\Visual Studio 2015\Projects\c-sharp-ray-tracer-master\RayTracer\obj\Debug\RayTracer.pdb

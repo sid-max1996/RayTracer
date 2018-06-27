@@ -1,0 +1,9 @@
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\bin\Debug\Interface.exe.config
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\bin\Debug\Interface.exe
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\bin\Debug\Interface.pdb
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\obj\Debug\RayTracer.csproj.GenerateResource.Cache
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\obj\Debug\Interface.exe
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\obj\Debug\Interface.pdb
+C:\Users\Максим\Downloads\RayTracer3\RayTracer3\Interface\obj\Debug\RayTracer.csprojResolveAssemblyReference.cache
